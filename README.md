@@ -1,7 +1,11 @@
-# Base Rails
+Welcome to my photography portfolio website! 
 
-## Standard Workflow
+This is a static website created using just HTML and CSS to showcase my photography work. 
 
- 1. Start the web server by running `bin/server`.
- 1. Navigate to your live application.
- 1. As you work, remember to navigate to `/git` and **commit often as you work.**
+In this website, you will find a collection of my best photographs, organized into different categories for easy navigation. 
+
+Photographs are arranged in a grid pattern. 
+
+I hope you enjoy browsing through my portfolio and feel free to contact me for any inquiries or feedback. 
+
+Thank you for visiting!
